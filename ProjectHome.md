@@ -1,0 +1,1 @@
+A sample of WebServer on .NET. Login/logout, object serialization/deserialization, method invocation.
